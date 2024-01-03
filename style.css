@@ -1,0 +1,158 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.COLORING{
+    color:red;
+}
+
+.header
+{
+  font-family: ' Times New Roman", Times, serif';
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+  text-align: center;
+  
+}
+.container{
+  max-width: 1300px;
+  margin: auto;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.navbar{
+  display: flex;
+  
+  padding: 20px;
+}
+nav{
+  flex: 1;
+  text-align: right;
+}
+nav ul{
+  display: inline-block;
+  list-style-type: none;
+}
+nav ul li{
+  font-size: 25px;
+  display: inline-block;
+  margin-right: 20px;
+}
+.heading{
+  text-align: center;
+  text-decoration: double;
+
+}
+.h2{
+  text-align: center;
+
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+p{
+  color:black;
+}
+.heading {
+  font-family: "fantasy";
+  font-size: medium;
+}
+
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.headinn {
+  position: absolute;
+  top: 0ch;
+  size: 11pc;
+  font-display: mid;
+  margin-top: 18cap;
+  font-family: Arial, Helvetica, sans-serif;
+  right: 18cap;
+  font-size: 14px;
+  left: 56cap;
+}
+.codee
+{
+ position: relative;
+ left: 6px;
+ right: 23cap;
+ text-align: center;
+}
+.fragrance
+{
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 26px;
+}
+
+.faqs
+{
+padding-top: 0cap;
+ 
+  text-align: center;
+}
+.diagram
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  text-align: center;
+}
+.notes
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  text-align: center; 
+  font-size: 27px;
+}
+.parra
+{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  text-align: center; 
+  font-size: 19px;
+}
+.pics
+{
+  
+  text-align: center;
+
+}
+.names
+{
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: center; 
+  font-size: x-large;
+}
+.logo
+{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: small;
+}
+.head
+{
+  position: absolute;
+  top: 0ch;
+  size: 11pc;
+  font-display: mid;
+  margin-top: 9cap;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  right: 19cap;
+  font-size: 24px;
+  left: 35cap;
+}
+
+
+
+
+
+
+
